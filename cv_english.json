@@ -1,0 +1,188 @@
+{
+  "basics": {
+    "name": "Jordy Vega",
+    "label": "Software Engineer",
+    "image": "/me.jpg",
+    "email": "jordyvega15@gmail.com",
+    "phone": "+50256275593",
+    "url": "",
+    "summary": "Software Engineer with extensive experience in Java and Spring Boot, specializing in the design and implementation of scalable and high-performance microservices architectures.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Guatemala City",
+      "countryCode": "GT",
+      "region": "Guatemala"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "jordy-vega",
+        "url": "https://linkedin.com/in/jordy-vega-250a57173"
+      },
+      {
+        "network": "GitHub",
+        "username": "JordyV3",
+        "url": "https://github.com/JordyV3"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "SIGEL S.A",
+      "position": "Software Engineer",
+      "url": "https://www.linkedin.com/company/sigel_servicios/posts/?feedView=all",
+      "startDate": "2020-03-01",
+      "endDate": null,
+      "summary": "Development of REST microservices for a corporate portal, database integration, and CI/CD management in Azure DevOps (Central America).",
+      "highlights": [
+        "Technical documentation",
+        "Functional and technical analysis",
+        "REST services development",
+        "CI/CD with Azure DevOps"
+      ]
+    },
+    {
+      "name": "Thuban Semantic Technologies & UC3M",
+      "position": "Software Engineer",
+      "url": "https://thubantech.com",
+      "startDate": "2024-06-01",
+      "endDate": "2024-08-01",
+      "summary": "Development and optimization of AI, neural networks, computer vision, automation, LLM models, vector and graph databases (Spain).",
+      "highlights": [
+        "Technical documentation",
+        "CI/CD automation and monitoring",
+        "Conversational flow optimization"
+      ]
+    },
+    {
+      "name": "Regional Banking Sector (Part-time Freelance)",
+      "position": "Software Engineer",
+      "url": "",
+      "startDate": "2024-09-01",
+      "endDate": null,
+      "summary": "Development of microservices documented with OpenAPI and based on Java/Spring Boot, database queries, and Oracle optimization (Costa Rica - Central America).",
+      "highlights": [
+        "OpenAPI documentation",
+        "Microservices design and development",
+        "Oracle database optimization"
+      ]
+    },
+    {
+      "name": "Contributor at Ultralytics",
+      "position": "Software Engineer",
+      "url": "",
+      "startDate": "2022-01-01",
+      "endDate": null,
+      "summary": "Contribution to the development of solutions based on Large Language Models (LLM). Participation in advanced projects related to natural language processing and applied artificial intelligence.",
+      "highlights": [
+        "Contributor",
+        "Design and development",
+        "Optimization and improvements"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Business Management System",
+      "isActive": true,
+      "description": "Development of a comprehensive business management system including modules for invoicing, customer management, and analytical reporting.",
+      "highlights": [
+        "Integration with banking APIs",
+        "Automated report generation",
+        "Real-time inventory management"
+      ],
+      "url": "https://empresa-sistema.com"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Mariano Gálvez",
+      "url": "",
+      "area": "Computer Systems Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2019-01-01",
+      "endDate": "2024-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Universidad Mariano Gálvez",
+      "url": "",
+      "area": "Master’s in Electronic and Computational Banking",
+      "studyType": "Master",
+      "startDate": "2025-01-01",
+      "endDate": null,
+      "score": "",
+      "courses": []
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Oracle Certified Professional, Java SE 8 Programmer",
+      "date": "2018",
+      "issuer": "Oracle",
+      "url": "https://example.com/cert1"
+    },
+    {
+      "name": "Oracle Certified Professional Helidon Microservices Developer",
+      "date": "2020",
+      "issuer": "Oracle",
+      "url": "https://example.com/cert2"
+    },
+    {
+      "name": "Red Hat Certified Enterprise Microservices Developer Exam (EX283)",
+      "date": "2019",
+      "issuer": "Red Hat",
+      "url": "https://example.com/cert3"
+    },
+    {
+      "name": "Network Security Engineer (Red Hat)",
+      "date": "2021",
+      "issuer": "Red Hat",
+      "url": "https://example.com/cert4"
+    },
+    {
+      "name": "Associate Developer Exam",
+      "date": "2022",
+      "issuer": "Certifications Inc.",
+      "url": "https://example.com/cert5"
+    },
+    {
+      "name": "Certified Kubernetes Application Developer (CKAD)",
+      "date": "2022",
+      "issuer": "Linux Foundation",
+      "url": "https://example.com/cert6"
+    },
+    {
+      "name": "Docker Certified Associate (DCA)",
+      "date": "2023",
+      "issuer": "Docker",
+      "url": "https://example.com/cert7"
+    }
+  ],
+  "skills": [
+    { "name": "Java", "level": "Master" },
+    { "name": "Spring Boot", "level": "Master" },
+    { "name": "Oracle", "level": "Advanced" },
+    { "name": "MongoDB", "level": "Master" },
+    { "name": "Docker", "level": "Advanced" },
+    { "name": "Kubernetes", "level": "Advanced" },
+    { "name": "Git", "level": "Medium" },
+    { "name": "Python", "level": "Advanced" },
+    { "name": "Flask", "level": "Advanced" },
+    { "name": "Laravel", "level": "Advanced" },
+    { "name": "MySQL", "level": "Advanced" },
+    { "name": "PostgreSQL", "level": "Advanced" },
+    { "name": "React", "level": "Advanced" },
+    { "name": "JavaScript", "level": "Advanced" },
+    { "name": "Html", "level": "Advanced" },
+    { "name": "Css", "level": "Advanced" },
+    { "name": "Spark SQL", "level": "Medium" },
+    { "name": "Php", "level": "Medium" }
+  ],
+  "languages": [
+    { "language": "Spanish", "fluency": "Native" },
+    { "language": "English", "fluency": "Basic" }
+  ]
+}
